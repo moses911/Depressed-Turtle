@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Depressed Turtle</title>
+        <link rel="stylesheet" href="Adventuregame.css">
+    </head>
+    <body>
+        <p class="paragraph">
+        THE DEPRESSED TURTLE
+        <br>  
+        <br>
+        Wakes up,because he cant find his friend nemo he goes on a adventure and tries to fin him
+        <br>
+        <br>
+        Choose one 
+            
+    </p>
+    <p class="links">
+       <a
+          href="petstore.html"></a>
+       <br>
+           
+        
+        
+     </p>
+        
